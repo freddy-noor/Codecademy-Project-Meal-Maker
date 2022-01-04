@@ -58,9 +58,9 @@ const menu = {
   
 };
 
-menu.addDishToCourse('appetizers', 'Salad', 3.25);
-menu.addDishToCourse('mains', 'Steak', 10.55);
-menu.addDishToCourse('desserts', 'Cake', 6.25);
+menu.addDishToCourse('appetizers', 'Egg Roll', 3.25);
+menu.addDishToCourse('mains', 'Chicken Pasta', 10.55);
+menu.addDishToCourse('desserts', 'Ice cream', 3.25);
 
 menu.addDishToCourse('appetizers', 'Ceasar Salad', 4.25);
 menu.addDishToCourse('mains', 'Lasagna', 9.75);
